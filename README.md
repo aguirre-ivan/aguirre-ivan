@@ -1,11 +1,9 @@
 ## Hi there 👋
 
-### 💻 I'm a software engineering student
+### 💻 I'm a Software Engineering student
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aguirre-ivan&count_private=true&hide=stars,issues&show_icons=true&theme=onedark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguirre-ivan&count_private=true&layout=compact&hide=Makefile&theme=onedark">
-</p>  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aguirre-ivan&count_private=true&hide=stars,issues&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguirre-ivan&count_private=true&layout=compact&hide=Makefile&theme=onedark)
 
 ### 📫 How to reach me:
 
