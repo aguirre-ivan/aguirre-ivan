@@ -3,7 +3,7 @@
 ### 💻 I'm a Software Engineering student
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aguirre-ivan&count_private=true&hide=stars,issues&show_icons=true&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aguirre-ivan&count_private=true,issues&show_icons=true&theme=onedark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguirre-ivan&langs_count=6&count_private=true&layout=compact&theme=onedark&hide=Makefile,HCL,c%2B%2B,Perl,Tcl)
 
