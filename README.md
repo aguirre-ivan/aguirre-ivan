@@ -5,7 +5,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aguirre-ivan&count_private=true&hide=issues,issues&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguirre-ivan&langs_count=8&count_private=true&layout=compact&theme=onedark&hide=Makefile,HCL,Lex,c%2B%2B,Perl,Tcl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguirre-ivan&langs_count=8&count_private=true&layout=compact&theme=onedark&hide=Makefile,HCL,Lex,c%2B%2B,Perl,Tcl,Yacc)
 
 ### 📫 How to reach me:
 
