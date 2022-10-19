@@ -1,17 +1,14 @@
 # Hi there 👋 My name is Ivan Gonzalo Aguirre
 
-### 💻 I'm a Software Engineering student
+## 💻 I'm a software engineering student
 
-<img align="right" src="image.png" width="40%" /> 
+<img align="right" src="image.png" width="45%" /> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=aguirre-ivan&count_private=true&hide=issues&custom_title=Github%20%Stats&hide_border=true&show_icons=true&theme=onedark&bg_color=00000000" width="53%">
 
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguirre-ivan&langs_count=108&count_private=true&layout=compact&theme=onedark&bg_color=00000000&hide_border=true&hide=Makefile,Blade,HCL,Lex,c%2B%2B,Perl,Tcl,Yacc,Shell,PowerShell,Assembly,Scheme,Hack" width="40%" /> 
 
-
-
-### 👨‍💻 Skills
+## 👨‍💻 Skills
 
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -32,7 +29,8 @@
 </p>
 
 
-### 📫 How to reach me
+## 📫 How to reach me
+
 
 <p align="center">
     <a href="mailto:aguirre.ivang@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail to aguirre.ivang@gmail.com"/> </a>
