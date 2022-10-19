@@ -2,11 +2,17 @@
 
 ## 💻 I'm a software engineering student
 
-<img align="right" src="image.png" width="40%" /> 
+<a href="https://github.com/aguirre-ivan?tab=repositories">
+    <img align="right" src="image.png" width="40%" /> 
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aguirre-ivan&count_private=true&hide=issues&custom_title=Github%20%Stats&hide_border=true&show_icons=true&theme=onedark&bg_color=00000000" width="53%">
+<a href="https://github.com/aguirre-ivan?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=aguirre-ivan&count_private=true&hide=issues&custom_title=Github%20%Stats&hide_border=true&show_icons=true&theme=onedark&bg_color=00000000" width="53%">
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguirre-ivan&langs_count=108&count_private=true&layout=compact&theme=onedark&bg_color=00000000&hide_border=true&hide=Makefile,Blade,HCL,Lex,c%2B%2B,Perl,Tcl,Yacc,Shell,PowerShell,Assembly,Scheme,Hack" width="40%" /> 
+<a href="https://github.com/aguirre-ivan?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguirre-ivan&langs_count=108&count_private=true&layout=compact&theme=onedark&bg_color=00000000&hide_border=true&hide=Makefile,Blade,HCL,Lex,c%2B%2B,Perl,Tcl,Yacc,Shell,PowerShell,Assembly,Scheme,Hack" width="40%" /> 
+</a>
 
 ## 👨‍💻 Skills
 
