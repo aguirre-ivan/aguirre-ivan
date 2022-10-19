@@ -2,7 +2,7 @@
 
 ## 💻 I'm a software engineering student
 
-<img align="right" src="image.png" width="45%" /> 
+<img align="right" src="image.png" width="40%" /> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=aguirre-ivan&count_private=true&hide=issues&custom_title=Github%20%Stats&hide_border=true&show_icons=true&theme=onedark&bg_color=00000000" width="53%">
 
