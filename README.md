@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://github.com/aguirre-ivan?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguirre-ivan&langs_count=108&count_private=true&layout=compact&theme=onedark&bg_color=00000000&hide_border=true&hide=Makefile,Blade,HCL,Lex,c%2B%2B,Perl,Tcl,Yacc,Shell,PowerShell,Assembly,Scheme,Hack,HTML" width="40%" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguirre-ivan&langs_count=108&count_private=true&layout=compact&theme=onedark&bg_color=00000000&hide_border=true&hide=Makefile,Markdown,Blade,HCL,Lex,c%2B%2B,Perl,Tcl,Yacc,Shell,PowerShell,Assembly,Scheme,Hack,HTML" width="40%" /> 
 </a>
 
 ## 👨‍💻 Skills
